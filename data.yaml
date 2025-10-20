@@ -1,0 +1,8 @@
+
+train: /content/Advanced_YOLOv8_OpenImages/dataset/images/train
+val: /content/Advanced_YOLOv8_OpenImages/dataset/images/val
+test: /content/Advanced_YOLOv8_OpenImages/dataset/images/test
+
+
+nc: 5
+names: ['airplane', 'helicopter', 'drone', 'bird', 'rocket']
