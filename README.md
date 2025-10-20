@@ -55,11 +55,12 @@ This repository contains the implementation of a progressive, multi-stage traini
 If you use this work, please cite:
 
 ```bibtex
-@software{progressive_yolov8_multiscale_2025,
-  author = {Hanaanee Hana},
-  title = {Progressive Multi-Scale Object Detection with YOLOv8 and Tiling},
-  year = {2025},
-  url = {https://github.com/hanaahh21/Multi-Scale-Airplane-Detection-using-YOLO-v8},
+@misc{progressive_yolov8_multiscale_2025,
+  title= {Progressive Multi-Scale Object Detection with YOLOv8 and Tiling},
+  author= {Hanaanee Hana},
+  year={2025},
+  howpublished={\url{https://github.com/hanaahh21/Multi-Scale-Airplane-Detection-using-YOLO-v8}},
+  note={GitHub repository}
 }
 ```
 
