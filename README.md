@@ -69,6 +69,4 @@ If you use this work, please cite:
 
 **[Hanaanee Hana]**  
 Department of Computer Science and Engineering  
-University of Moratuwa
 University of Moratuwa, Sri Lanka  
-Email: [your-email@example.com]
